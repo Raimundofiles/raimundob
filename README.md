@@ -4,6 +4,17 @@
   </a>
 </div>
 
+
+
+
+[![Minhas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=raimundob&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
+
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:raimundobarbosadasilva507@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](http://www.linkedin.com/in/raimundo-b-silva-281012371/)
 
